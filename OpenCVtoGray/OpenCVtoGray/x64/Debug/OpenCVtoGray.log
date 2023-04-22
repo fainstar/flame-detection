@@ -1,0 +1,25 @@
+﻿  MyForm.cpp
+C:\Users\asdf9\OneDrive\桌面\OpenCVtoGray\OpenCVtoGray\MyForm.h(376,16): warning C4244: '正在初始化': 將 'double' 轉換為 'long'，由於類型不同，可能導致資料遺失
+C:\Users\asdf9\OneDrive\桌面\OpenCVtoGray\OpenCVtoGray\MyForm.h(429,25): warning C4244: '=': 將 'double' 轉換為 'long'，由於類型不同，可能導致資料遺失
+C:\Users\asdf9\OneDrive\桌面\OpenCVtoGray\OpenCVtoGray\MyForm.h(430,30): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\asdf9\OneDrive\桌面\OpenCVtoGray\OpenCVtoGray\MyForm.h(437,1): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\asdf9\OneDrive\桌面\OpenCVtoGray\OpenCVtoGray\MyForm.h(440,1): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+  util.cpp
+C:\Users\asdf9\OneDrive\桌面\OpenCVtoGray\OpenCVtoGray\util.cpp(103,50): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\asdf9\OneDrive\桌面\OpenCVtoGray\OpenCVtoGray\util.cpp(139,19): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\asdf9\OneDrive\桌面\OpenCVtoGray\OpenCVtoGray\util.cpp(140,19): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\asdf9\OneDrive\桌面\OpenCVtoGray\OpenCVtoGray\util.cpp(141,19): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\asdf9\OneDrive\桌面\OpenCVtoGray\OpenCVtoGray\util.cpp(146,31): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\asdf9\OneDrive\桌面\OpenCVtoGray\OpenCVtoGray\util.cpp(152,20): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\asdf9\OneDrive\桌面\OpenCVtoGray\OpenCVtoGray\util.cpp(206,6): warning C4101: 'pixel': 未參考的區域變數
+C:\Users\asdf9\OneDrive\桌面\OpenCVtoGray\OpenCVtoGray\util.cpp(326,34): warning C4244: '=': 將 'float' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\asdf9\OneDrive\桌面\OpenCVtoGray\OpenCVtoGray\util.cpp(346,50): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  正在產生程式碼...
+  MyForm.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+MyForm.obj : warning LNK4248: 無法解析的 typeref 語彙基元 (01000025) (對 'cv.IVideoCapture' 而言)，映像可能無法執行
+MyForm.obj : warning LNK4248: 無法解析的 typeref 語彙基元 (01000026) (對 'CvCapture' 而言)，映像可能無法執行
+  OpenCVtoGray.vcxproj -> C:\Users\asdf9\OneDrive\桌面\OpenCVtoGray\x64\Debug\OpenCVtoGray.exe

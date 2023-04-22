@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\asdf9\OneDrive\桌面\OpenCVtoGray\OpenCVtoGray\MyForm.h(2,10): fatal  error C1083: 無法開啟包含檔案: 'opencv2/highgui.hpp': No such file or directory
+  util.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  正在產生程式碼...

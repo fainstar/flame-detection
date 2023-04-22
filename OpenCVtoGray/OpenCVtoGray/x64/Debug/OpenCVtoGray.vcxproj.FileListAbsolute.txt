@@ -1,0 +1,4 @@
+C:\Users\asdf9\OneDrive\桌面\OpenCVtoGray\OpenCVtoGray\x64\Debug\OpenCVtoGray.vcxproj.AssemblyReference.cache
+C:\Users\asdf9\OneDrive\桌面\OpenCVtoGray\OpenCVtoGray\x64\Debug\OpenCVtoGray.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\asdf9\OneDrive\桌面\OpenCVtoGray\OpenCVtoGray\x64\Debug\OpenCVtoGray.MyForm.resources
+C:\Users\asdf9\OneDrive\桌面\OpenCVtoGray\OpenCVtoGray\x64\Debug\OpenCVtoGray.vcxproj.GenerateResource.cache
